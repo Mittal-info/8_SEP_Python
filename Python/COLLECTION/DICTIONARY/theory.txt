@@ -1,0 +1,22 @@
+ Dictionary:
+
+      most powerfull concept in python
+      because in Dictionary we can store key and value
+      in a pair.
+
+      Dictionary which  is  indexable,orderable and
+      mutable data type
+
+      syntax:
+
+      dict = {
+        "key" : value,
+        "key" : value,
+        "key" : value,
+         .
+         .
+      }
+
+      Dictionary which is represent by {} braces
+
+      note: in python set is also represent by {} bracesr
