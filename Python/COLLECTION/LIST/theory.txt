@@ -1,0 +1,83 @@
+collection::
+
+
+     collection is a group of elements which is access multiple data types.
+
+
+     there are 4 typees:
+
+
+     1)list::
+           list is a most powerfull data type of collection
+           which is represent by [] braces
+           list is a mutable data type
+
+           we can chane it value after creation
+
+           e.g. example = []
+ -------------------------------------------------------------------------          
+   
+       """
+list operations:
+
+add::
+
+1)append():: to add new element at end of the list
+
+2)extend():: add one or more elements at end of the list
+
+3)insert():: add new element at specific index position
+
+"""
+"""
+1)append():: 
+
+  syntax:
+
+    list.append()
+    variable.append(new value)
+"""
+
+
+---------------------------------------------------------------------------
+           1)remove()::
+
+              when we want to remove specific element from the existing list
+
+
+              syntax: list.remove(element)
+
+          2)pop()::
+             
+               it will remove last element from the list
+               by default remove last element from the list
+
+               syntax: list.pop(element)
+
+               pop(index): when we want to remove element from specific index position
+
+               syntax: list.pop(index)
+
+          3)clear():
+
+               when we want to remove all elements from list
+
+               syntax:
+
+                 list.clear()
+
+
+          4)del :
+
+            del is a keyword which is used to delete list variable from the memory       
+
+
+
+      2)tuple
+
+
+      3)set:
+
+
+
+      4)dictionary     
