@@ -1,0 +1,4 @@
+tuple : is a collection data type.
+       tuple which is represent by () braces.
+       tuple is a orderable,indexable,sequence data type 
+       but tuple is an inmutable datatype.
