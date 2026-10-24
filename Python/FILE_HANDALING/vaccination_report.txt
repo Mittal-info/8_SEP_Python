@@ -1,0 +1,9 @@
+
+-------------------------
+2026-10-14 16:27:53.764036
+
+Name:Mittal
+Age:20
+Gender:female
+Contact:9510737082
+vaccination_status :yes
