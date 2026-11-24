@@ -1,0 +1,10 @@
+pip install psycopg2-binary python-dotenv --- for installing packages
+
+
+1. Install packages
+2. Create Neon database
+3. Copy connection string
+4. Save connection string in .env
+5. Create connection.py
+6. Connect database
+7. Perform database operations
